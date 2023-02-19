@@ -1,0 +1,3 @@
+(executable
+ (name parser)
+ (libraries camlpdf unix))
